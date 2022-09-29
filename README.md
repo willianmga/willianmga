@@ -6,6 +6,10 @@
 * Bash Scripting
 * Object Pascal (Delphi)
 
+### Certifications
+* Oracle Certified Associate Java Programmer 8
+* Getting ready for Kubernetes Certified Application Developer (CKAD)
+
 ### Links
 * [My website](https://www.bodnariuc.com/)
 * [LinkedIn](https://www.linkedin.com/in/willian-azevedo/)
