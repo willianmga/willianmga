@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+### Programming Languages
+* Java
+* JavaScript/TypeScript
+* Bash Scripting
+* Object Pascal (Delphi)
+
+### Links
+* [My website](https://www.bodnariuc.com/)
+* [LinkedIn](https://www.linkedin.com/in/willian-azevedo/)
+
 <!--
 **willianmga/willianmga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
