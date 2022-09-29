@@ -1,24 +1,19 @@
 ### Hi there 👋
 
-I'm Willian Antonio de Azevedo Bodnariuc (long name, no? you must see my wife's name). A Brazilian guy with Italian, Portuguese and Romanian roots living in UK 😄
+I'm **Willian Antonio de Azevedo Bodnariuc** (long name, no? ~~you must see my wife's name~~). A 🇧🇷 guy with 🇮🇹, 🇵🇹 and 🇷🇴 roots living in 🇬🇧
 
 I'm a Senior Software Engineer specialized in backend development and who is passionate about software architecture and cloud computing.
 
-I've started writing code that ran in my hometown, then in entire U.S. and now code that runs worldwide. Hope someday I'll write code that will run in Mars.
+I've started writing code that ran in my :city_sunrise:, then in entire :us: . and now code that runs in the entire :earth_americas:. Hope someday I'll write code that will run in Mars :red_circle:.
 
-### Skills
-* Backend development
-* Google Cloud
-* Kubernetes
-* SQL and NoSQL databases
-
-### Interests
+### Interests and Skills
 * Computer Science
 * Algorithms
 * Automated Testing
 * Software Development, Design and Architecture 
 * Cloud computing
 * Infrastructure Automation
+* SQL and NoSQL databases
 
 ### Programming Languages
 * Java
