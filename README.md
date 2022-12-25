@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-I'm **Willian Antonio de Azevedo Bodnariuc** (long name, no? ~~wait till you see my wife's name~~). A 🇧🇷 guy with 🇮🇹, 🇵🇹 and 🇷🇴 roots living in 🇬🇧
-
-I'm a Senior Software Engineer specialized in backend development and passionate about software architecture, cloud computing and infrastructure automation.
-
-I've started writing code that ran in my :city_sunrise:, then in entire :us: and now code that runs in the whole :earth_americas:. I wish someday I'll write code that will run in Mars :red_circle:.
+I'm a Senior Software Engineer specialized in backend development and passionate about software architecture, cloud computing and infrastructure automation. A 🇧🇷 guy with 🇮🇹, 🇵🇹 and 🇷🇴 roots living in 🇬🇧
 
 ### Interests and Skills
 * Computer Science
@@ -24,8 +20,8 @@ I've started writing code that ran in my :city_sunrise:, then in entire :us: and
 ### Study and Certifications
 * BSc in Software Engineering
 * Oracle Certified Associate Java Programmer 8
+* Google Cloud Professional Cloud Security Engineer
 * Getting ready for Kubernetes Certified Application Developer (CKAD)
 
-### Links
-* [My website](https://www.bodnariuc.com/)
+### Contact
 * [LinkedIn](https://www.linkedin.com/in/willian-azevedo/)
