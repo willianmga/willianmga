@@ -19,9 +19,9 @@ I'm a Senior Software Engineer specialized in backend development and passionate
 
 ### Study and Certifications
 * BSc in Software Engineering
-* Oracle Certified Associate Java Programmer 8
+* Kubernetes Certified Application Developer (CKAD)
 * Google Cloud Professional Cloud Security Engineer
-* Getting ready for Kubernetes Certified Application Developer (CKAD)
+* Oracle Certified Associate Java Programmer 8
 
 ### Contact
 * [LinkedIn](https://www.linkedin.com/in/willian-azevedo/)
