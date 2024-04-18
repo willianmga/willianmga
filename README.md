@@ -3,5 +3,8 @@ Skiils:
 * Java, TypeScript, Go
 
 Certifications:
-* Kubernetes CKA | CKAD | GCP Security Enginner | OCAJP 8
+* Kubernetes CKA
+* Kubernetes CKAD
+* Google Cloud Security Enginner
+* Oracle Certified Java Programmer 8
 * BSc Software Engineering
