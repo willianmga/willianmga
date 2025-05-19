@@ -1,5 +1,5 @@
 Skiils:
-* APIs | Cloud | Infra
+* APIs | Cloud | Security | Infra
 * Java, TypeScript, Go
 
 Certifications:
