@@ -8,4 +8,6 @@ Certifications:
 * Kubernetes CKA
 * Kubernetes CKAD
 * Oracle Certified Java Programmer 8
+
+Academic Studies:
 * BSc Software Engineering
