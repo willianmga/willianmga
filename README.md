@@ -7,8 +7,7 @@
 #### 📖 Certifications:
 * Google Cloud Architect
 * Google Cloud Security Enginner
-* Kubernetes CKA
-* Kubernetes CKAD
+* Kubernetes CKS / CKA / CKAD
 * Oracle Certified Java Programmer 8
 
 #### 📘 Academic Studies:
